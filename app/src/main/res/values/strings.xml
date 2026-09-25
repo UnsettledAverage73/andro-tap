@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroTap</string>
+    <string name="accessibility_service_description">AndroTap automatically detects payments and opens a quick panel to log your expense with one tap.</string>
+    <string name="how_much_did_you_spend">How much did you spend?</string>
+    <string name="where_did_you_spend">Where did you spend?</string>
+    <string name="optional_note">Add a note (optional)</string>
+    <string name="save_expense">Save Expense</string>
+    <string name="expense_saved">Expense recorded successfully!</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
